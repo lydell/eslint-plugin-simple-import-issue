@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "eslint --fix test.js"
+  },
+  "dependencies": {
+    "eslint": "6.0.1",
+    "eslint-plugin-simple-import-sort": "4.0.0"
+  }
+}
