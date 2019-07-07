@@ -4,7 +4,9 @@
     "test": "eslint --fix test.js"
   },
   "dependencies": {
+    "@typescript-eslint/parser": "1.11.0",
     "eslint": "6.0.1",
-    "eslint-plugin-simple-import-sort": "4.0.0"
+    "eslint-plugin-simple-import-sort": "4.0.0",
+    "typescript": "3.5.2"
   }
 }

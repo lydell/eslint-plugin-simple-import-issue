@@ -1,5 +1,6 @@
 {
   "plugins": ["simple-import-sort"],
+  "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "ecmaVersion": 2015,
     "sourceType": "module"
